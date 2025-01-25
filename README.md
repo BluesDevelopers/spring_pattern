@@ -1,2 +1,2 @@
-# spring_decorator
-Implementation of the decorator pattern under spring
+# Design pattern under Spring
+Implementation of the many desdign pattern under spring
